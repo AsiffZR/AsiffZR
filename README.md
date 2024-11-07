@@ -14,4 +14,4 @@
 
 ⚡ Fun fact: Saya selalu suka mengeksplorasi berbagai teknik desain untuk meningkatkan pengalaman pengguna (UX) dan mengoptimalkan kecepatan serta keamanan aplikasi web.
 
-![image](https://github.com/user-attachments/assets/f4d62eac-4ada-4e54-b708-bdab1b18745c)
+![](https://github.com/AsiffZR/gif/blob/main/anime-icegif.gif)
