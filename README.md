@@ -1,3 +1,5 @@
+[![image](https://github.com/user-attachments/assets/7836772b-788d-433b-9d90-0591e7d7ead5)](https://media.tenor.com/iRkL6OMGhU4AAAAM/alarm.gif)
+
 👋 Hi, saya @AsiffZR!
 
 👀 Saya tertarik dalam pengembangan web, terutama dalam desain antarmuka pengguna (UI) dan pengembangan backend. Saya fokus pada pemrograman dengan CSS untuk styling halaman web yang responsif dan menarik, serta PHP untuk membangun aplikasi web dinamis dan backend yang efisien.
@@ -11,3 +13,5 @@
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: Saya selalu suka mengeksplorasi berbagai teknik desain untuk meningkatkan pengalaman pengguna (UX) dan mengoptimalkan kecepatan serta keamanan aplikasi web.
+
+![image](https://github.com/user-attachments/assets/f4d62eac-4ada-4e54-b708-bdab1b18745c)
