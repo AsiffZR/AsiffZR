@@ -1,4 +1,4 @@
-[![image](https://github.com/user-attachments/assets/7836772b-788d-433b-9d90-0591e7d7ead5)](https://media.tenor.com/iRkL6OMGhU4AAAAM/alarm.gif)
+![](https://github.com/AsiffZR/gif/blob/main/alarm.gif)
 
 👋 Hi, saya @AsiffZR!
 
