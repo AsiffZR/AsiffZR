@@ -1,17 +1,29 @@
-![](https://github.com/AsiffZR/gif/blob/main/alarm.gif)
+# Hi, I'm AsiffZR 👋
 
-👋 Hi, saya @AsiffZR!
+<img src="https://media.tenor.com/iRkL6OMGhU4AAAAM/alarm.gif" alt="AsiffZR GIF">
 
-👀 Saya tertarik dalam pengembangan web, terutama dalam desain antarmuka pengguna (UI) dan pengembangan backend. Saya fokus pada pemrograman dengan CSS untuk styling halaman web yang responsif dan menarik, serta PHP untuk membangun aplikasi web dinamis dan backend yang efisien.
+## Developer | CSS & PHP Enthusiast
 
-🌱 Saat ini, saya sedang mempelajari framework PHP seperti Laravel dan CSS Grid serta Flexbox untuk memperdalam keterampilan saya dalam membuat halaman web yang lebih interaktif dan modern.
+Selamat datang di profil GitHub saya! Saya adalah seorang developer yang berfokus pada pengembangan web dengan keahlian utama di **CSS** dan **PHP**. Saya selalu tertarik untuk menciptakan pengalaman pengguna yang menarik dan fungsional di dunia web.
 
-💞️ Saya mencari kolaborasi pada proyek-proyek pengembangan web, baik di sisi frontend dengan desain web responsif atau di sisi backend dengan aplikasi berbasis PHP. Jika Anda sedang mengerjakan proyek yang membutuhkan keahlian dalam CSS atau PHP, saya terbuka untuk berkolaborasi.
+### 📚 Tentang Saya
+- 👨‍💻 **Spesialisasi**: Pengembangan Frontend & Backend menggunakan CSS dan PHP.
+- 🌍 **Tujuan**: Membuat aplikasi dan situs web yang efisien dan mudah digunakan.
+- 💡 **Passion**: Desain UI/UX yang responsif dan pengembangan web dinamis.
+- 🌱 **Sedang Belajar**: Meningkatkan pemahaman tentang **JavaScript**, **Laravel**, dan **SASS**.
+- 📫 **Kontak**: [nagisaasiffgamer@gmail.com](mailto:nagisaasiffgamer@gmail.com)
 
-📫 Anda bisa menghubungi saya melalui email atau DM di platform GitHub ini jika tertarik untuk bekerja sama atau berdiskusi tentang pengembangan web.
+### 🚀 Teknologi yang Saya Gunakan
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
+- **Backend**: PHP, Laravel
+- **Database**: MySQL, SQLite
+- **Tools**: Git, Composer, VS Code, Docker
+- **Design**: Figma, Adobe XD
 
-😄 Pronouns: He/Him
 
-⚡ Fun fact: Saya selalu suka mengeksplorasi berbagai teknik desain untuk meningkatkan pengalaman pengguna (UX) dan mengoptimalkan kecepatan serta keamanan aplikasi web.
+### 📈 Statistik GitHub
 
-![](https://github.com/AsiffZR/gif/blob/main/anime-icegif.gif)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asiffzr&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
+
+
+Terima kasih telah mengunjungi profil GitHub saya! Jangan ragu untuk menghubungi saya jika Anda tertarik untuk bekerja sama atau ingin berdiskusi tentang teknologi terbaru dalam dunia pengembangan web.
